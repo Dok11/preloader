@@ -1,0 +1,24 @@
+{
+	"name": "preloader",
+	"version": "0.0.1",
+	"license": "MIT",
+	"author": {
+		"name": "Oleg Postoev",
+		"email": "mr.postoev@yandex.ru"
+	},
+	"dependencies": {
+		
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Dok11/preloader.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Dok11/preloader/issues"
+	},
+	"tags": [
+		"preloader",
+		"angular2",
+		"angular"
+	]
+}
